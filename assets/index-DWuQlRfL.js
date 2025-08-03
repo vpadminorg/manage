@@ -1,0 +1,1 @@
+import{a4 as t}from"./index-E8Kk0TG9.js";const s=e=>t({url:"/english/pk/game/start",method:"post",data:e}),a=e=>t({url:"/english/pk/game/submitResult",headers:{isEncrypt:!0},method:"post",data:e}),o=e=>t({url:`/english/pk/user/profile/${e}`,method:"get"}),u=()=>t({url:"/english/pk/leaderboard/top50",method:"get"});export{o as a,a as b,u as g,s};
