@@ -1,0 +1,1 @@
+import{a4 as t}from"./index-6gxZEHjo.js";const n=()=>t({url:"/english/enWordStatus/download",method:"get",responseType:"blob"}),r=()=>t({url:"/english/enWordStatus/countByLib",method:"get"}),s=e=>t({url:"/english/enWordStatus",method:"put",data:e}),u=e=>t({url:"/english/enWordStatus/batch",method:"put",data:e});export{u as a,r as c,n as d,s as u};
