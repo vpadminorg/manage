@@ -1,0 +1,1 @@
+import{a4 as t}from"./index-86bQVos7.js";const o=e=>t({url:"/english/enWord/listByUser",method:"post",data:e}),n=e=>t({url:"/english/enWord/word/"+e,method:"get"}),s=e=>t({url:"/english/enWord/dictdetail/"+e,method:"get"});export{n as a,s as g,o as l};
