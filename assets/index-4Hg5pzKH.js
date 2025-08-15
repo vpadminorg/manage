@@ -1,0 +1,1 @@
+import{a4 as t}from"./index-D6dP8KGW.js";const r=e=>t({url:"/english/enWordLevelStatus/list",method:"get",params:e}),l=e=>t({url:"/english/enWordLevelStatus",method:"post",data:e}),n=e=>t({url:"/english/enWordLevelStatus",method:"put",data:e}),o=e=>t({url:"/english/enWordLevelStatus/"+e,method:"delete"});export{l as a,o as d,r as l,n as u};
