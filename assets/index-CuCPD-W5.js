@@ -1,0 +1,1 @@
+import{a4 as r}from"./index-DtfSfFIR.js";const i=e=>r({url:"/english/enLibraries/list",method:"get",params:e}),t=e=>r({url:"/english/enLibraries",method:"post",data:e}),n=e=>r({url:"/english/enLibraries",method:"put",data:e}),a=e=>r({url:"/english/enLibraries/"+e,method:"delete"});export{t as a,a as d,i as l,n as u};
