@@ -1,0 +1,1 @@
+import{a4 as e}from"./index-DAgvXN2w.js";const n=s=>e({url:"/english/enStudySession/list",method:"get",params:s}),o=s=>e({url:"/english/enStudySession/"+s,method:"get"}),u=s=>e({url:"/english/enStudySession",method:"post",data:s}),r=s=>e({url:"/english/enStudySession",method:"put",data:s});export{u as a,o as g,n as l,r as u};
